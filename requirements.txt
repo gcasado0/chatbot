@@ -5,3 +5,4 @@ langchain-ollama
 langchainhub
 chromadb
 bs4
+google-generativeai
