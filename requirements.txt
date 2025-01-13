@@ -6,3 +6,5 @@ langchainhub
 chromadb
 bs4
 google-generativeai
+pandas
+openpyxl
