@@ -1,3 +1,6 @@
 chatbot/
 __pycache__/
 *.xlsx
+*.xlsx#
+
+*.ini
