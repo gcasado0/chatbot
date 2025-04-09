@@ -8,3 +8,5 @@ bs4
 google-generativeai
 pandas
 openpyxl
+matplotlib
+seaborn
